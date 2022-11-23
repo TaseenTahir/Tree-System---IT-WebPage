@@ -40,18 +40,16 @@
     height: 500px;
     background: url('../img/footer.png');
     background-repeat: no-repeat;
-    
+    background-size: cover;
 }
 
-.about-sec{
-    margin-left: 70px;
-}
-   
 
 .about-heading{
-padding-top: 30px;
+padding-top: 50px;
    font-size: 40px;
-   font-style: #243859;
+   font-style: #283956;
+   text-transform: uppercase;
+   letter-spacing: 2px;
 }
 
 .about-line{
