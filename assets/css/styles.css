@@ -28,13 +28,6 @@
     text-transform: uppercase;
 }
 
-.left-side{
-    width: 50px;
-    height: 50px;
-}
-
-
-
 .about-area{
     width: 100%;
     height: 500px;
@@ -55,7 +48,7 @@ padding-top: 50px;
 .about-line{
     width: 300px;
     height: 3px;
-    background: linear-gradient(to right, #1dc8c4 45%, #1a8bcd 60%);;
+    background: linear-gradient(to right, #1dc8c4 45%, #1a8bcd 60%);
 }
 
 .about-para{
@@ -68,10 +61,36 @@ padding-top: 50px;
     width: 100%;
     height: 400px;
     background-position: center;
+    background-size: cover;
 }
 
-.right-side{
-    margin-top: -150px;
-    position: fixed right;
+.left-side-tri{
+    width: 150px;
+    height: 150px;
 }
 
+
+.right-side-tri{
+    width: 150px;
+    height: 150px;
+}
+
+.main-heading{
+    margin-top: -80px;
+    font-size: 50px;
+}
+
+.network-para{
+    font-size: 20px;
+    font-style: black;  
+}
+
+.line-style{
+    margin-top: -100px;
+    margin-left: 0px;
+}
+
+.recatangle-box{
+    height: 50px;
+    background: linear-gradient(to right, #1dc8c4 45%, #1a8bcd 60%);
+}
