@@ -222,8 +222,10 @@ a:hover {
     .normal-text{
         font-size: 13px;
         margin-left: 30px !important;
-        margin-top: 5px;
+        margin-top: 0px !important;
     } 
+
+    
 }
 
 
