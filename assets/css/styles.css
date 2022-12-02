@@ -504,6 +504,10 @@ a:hover {
     .footer-head{
         font-size: 60px !important;
     }
+
+    .points {
+        padding-left: 40px;
+    }
 }
 
 
