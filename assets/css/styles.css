@@ -586,6 +586,14 @@ a:hover {
     .points {
         padding-left: 40px;
     }
+
+    .modelLogo{
+      margin-left: 45%;
+      margin-right: auto;
+      display: block;
+      float: center;
+  
+    }
 }
 
 
